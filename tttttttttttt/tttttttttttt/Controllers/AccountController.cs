@@ -20,6 +20,9 @@ namespace tttttttttttt.Controllers
 
         public AccountController()
         {
+
+
+            var aa = "sssssssssssssssssss";
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
